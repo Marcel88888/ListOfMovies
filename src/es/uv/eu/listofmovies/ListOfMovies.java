@@ -1,5 +1,5 @@
-package es.uv.eu.aplicacion1;
-public class Application4 {
+package es.uv.eu.listofmovies;
+public class ListOfMovies {
 
     public static void main(String[] args) {
 

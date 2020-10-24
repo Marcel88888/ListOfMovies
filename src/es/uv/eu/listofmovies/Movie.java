@@ -1,5 +1,4 @@
-
-package es.uv.eu.aplicacion1;
+package es.uv.eu.listofmovies;
 
   public class Movie {
     public final static int TERROR=0, CIENCIA_FICCION=1, ACCION=2, SUSPENSE=3, COMEDIA=4;

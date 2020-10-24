@@ -1,4 +1,4 @@
-package es.uv.eu.aplicacion1;
+package es.uv.eu.listofmovies;
 
 import java.util.ArrayList;
 import java.util.HashSet;

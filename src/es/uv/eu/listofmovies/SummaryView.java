@@ -1,4 +1,4 @@
-package es.uv.eu.aplicacion1;
+package es.uv.eu.listofmovies;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
